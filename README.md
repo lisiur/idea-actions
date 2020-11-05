@@ -1,6 +1,6 @@
 # idea-actions
 
---- Actions ---
+```text
 $ChooseTranslatorAction                            <C-S-S>
 $Copy                                              <C-C> <C-Ins>
 $Cut                                               <C-X> <S-Del>
@@ -2444,3 +2444,4 @@ XPathView.MainMenu.Search
 XPathView.XSLT.Associations
 XSD2Document
 ZoomCurrentWindow
+```
